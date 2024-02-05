@@ -1,4 +1,4 @@
-# Apple StoreFront
+# Apple 
 
 A fullstack ECommerce website for selling apple devices
 
