@@ -1,6 +1,6 @@
-# Apple 
+# Byte Bazaar Commerce
 
-A fullstack ECommerce website for selling apple devices
+A fullstack ECommerce website for selling high-tech electronic devices
 
 https://www.youtube.com/watch?v=DfcWNmU988w
 
